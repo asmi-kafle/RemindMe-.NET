@@ -1,0 +1,12 @@
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\bin\Debug\NotesDataAccess.dll.config
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\bin\Debug\NotesDataAccess.dll
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\bin\Debug\NotesDataAccess.pdb
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\obj\Debug\NotesDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\obj\Debug\NotesDataAccess.csproj.CopyComplete
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\obj\Debug\NotesDataAccess.dll
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\obj\Debug\NotesDataAccess.pdb
+C:\Users\Asmi Kafle\source\repos\RemindMe\NotesDataAccess\obj\Debug\NotesDataAccess.csprojAssemblyReference.cache
